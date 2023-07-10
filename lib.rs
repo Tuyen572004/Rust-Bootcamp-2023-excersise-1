@@ -98,7 +98,6 @@ fn exercise6() {
 // Make it compile
 fn exercise7() {
     let mut v: Vec<&str> = Vec::new();
-    //delete lifetim scoped
     let chars = [b'x', b'y', b'z'];
     let s: &str = std::str::from_utf8(&chars).unwrap();
     v.push(&s);
