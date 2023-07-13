@@ -1,5 +1,4 @@
-// It is a new one
-
+// ver 2 
 
 // Exercise 1
 // Fill in the blank and fix the errors
