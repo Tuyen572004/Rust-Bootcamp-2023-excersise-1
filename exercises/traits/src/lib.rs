@@ -1,6 +1,3 @@
-// Done
-
-
 // Exercise 1
 // Fill in the two impl blocks to make the code work.
 // Make it compile
